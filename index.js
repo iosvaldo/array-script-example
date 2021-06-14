@@ -5,7 +5,7 @@
 
 // But how can we store a collection of related items, to the same container or same variable ? this is a case for creating an array. 
 
-// Arrays help us store a collection of data
+// Arrays help us store a collection of data, and gives us a lot of functionality without having to write alot of code.
 
 // Challange: have your ever thrown a party and had the daunting task of having to manage the guest list?, here is a simple useful js program to help.
 
